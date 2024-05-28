@@ -53,9 +53,7 @@ Now the malicious CV will be sent to the target and wait for the Credentials.
 
 ## The third stage (execution technique)
 
-
-
-
+Credential Phishing is when the target opens the target Word file and enters credentials into the notification that will be shown to them.
 
 
 https://github.com/S3N4T0R-0X0/Berserk-Bear-APT/assets/121706460/ac654ad4-45d8-4bea-a0cb-a3a0fc7e567d
